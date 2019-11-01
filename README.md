@@ -54,7 +54,7 @@ resultant = sum_vectors(forces)
 
 ## Part 2: Update cables
 
-The objective of this part of the assignment is to update the force densities of all edges belonging to a cable at once, rather then updating them one by one.
+The objective of this part of the assignment is to update the force densities of all edges belonging to a cable at once, rather than updating them one by one.
 
 To select an edge of the mesh in Rhino:
 
